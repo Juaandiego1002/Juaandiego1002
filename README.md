@@ -54,3 +54,4 @@ Y aquí hay algunas gráficas interesantes sobre mi actividad en GitHub:
 Si tienes alguna pregunta o simplemente quieres saludar, no dudes en escribirme.
 
 ¡Que tengas un excelente día! 🚀
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
