@@ -38,6 +38,18 @@ Aquí están los lenguajes de programación o herramientas que uso con frecuenci
   
 </div>
 
+
+Y aquí hay algunas gráficas interesantes sobre mi actividad en GitHub:
+
+<!-- grph -->
+<div>
+  <div>
+    <img height="150" alt="stats graph" src="https://raw.githubusercontent.com/Juaandiego1002/Juaandiego1002/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+    <img height="150" alt="languages graph" src="https://raw.githubusercontent.com/Juaandiego1002/Juaandiego1002/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+  </div>
+  <img src="https://raw.githubusercontent.com/Juaandiego1002/Juaandiego1002/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile detail" />
+</div>
+
 ##
 Si tienes alguna pregunta o simplemente quieres saludar, no dudes en escribirme.
 
